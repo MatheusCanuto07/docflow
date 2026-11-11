@@ -1,7 +1,7 @@
 # docflow
 - Infra -> Conceitos cloud, EC2, S3, SQS, SMS, IAM, Cloudwatch, RDS
 
-- Deploy -> CI/CD (pipeline)
+- Deploy -> CI/CD (pipeline, verificar a cobertura dos testes, segurança do código)
 
 - IA -> Seleção de modelos, Gerenciar contexto, Criar MCP (quando), criar skill para IA (quando), aproveitar janela de contexto.
 
