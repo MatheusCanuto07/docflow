@@ -5,4 +5,6 @@
 
 - IA -> Seleção de modelos, Gerenciar contexto, Criar MCP (quando), criar skill para IA (quando), aproveitar janela de contexto.
 
+- Mátricas para validar código gerado por IA
+  
 - SOLID, Interface, tipos de dados, reference type, value type, heap memory, stack memory, disposable, async, await, configureawait
