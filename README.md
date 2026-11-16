@@ -15,3 +15,5 @@ Advanced, daily usage of AI-assisted development tools and concrete practices in
 Practical experience with GitLab CI/CD pipelines and AWS services (S3, EC2, Lambda, CloudWatch, SNS) though at surface level.
 Solid understanding of JavaScript fundamentals
 AWS networking and advanced configuration (VPC, Route53) not known; S3 security explanations were vague”
+
+- Criar bot telegram
