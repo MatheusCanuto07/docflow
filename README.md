@@ -17,3 +17,5 @@ Solid understanding of JavaScript fundamentals
 AWS networking and advanced configuration (VPC, Route53) not known; S3 security explanations were vague”
 
 - Criar bot telegram
+
+- Indepodência
